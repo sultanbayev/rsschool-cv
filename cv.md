@@ -11,3 +11,13 @@
 	* Git /Github
     * Node JS + Express (Basic)
     * MySQL, MongoDB
+5. Code example from Codewars (Power .bind())
+```
+Function.prototype.bind = function (ctx) {
+  const func = this;
+  return function(...args) {
+    ctx = global === this ? ctx : this;
+    return func.apply(ctx, args)
+  }
+};
+```
