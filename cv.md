@@ -21,3 +21,7 @@ Function.prototype.bind = function (ctx) {
   }
 };
 ```
+6. Last big project was React Burger (React, Redux, React Router, WebSockets, Drag-n-Drop) 
+https://github.com/sultanbayev/react-burger  
+7. Last course was Yandex React developer: https://praktikum.yandex.ru/profile/react/
+8. English level: B2
